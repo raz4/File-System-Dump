@@ -1,4 +1,4 @@
-# EXT2 File System Analyzer
+# EXT2 File System Dump
 
 Objectives:
 
